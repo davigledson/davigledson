@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davigledson&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-
+<!--  lembrar de colocar um gif aqui-->
     
   ## Tecnologias para Front-end:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
