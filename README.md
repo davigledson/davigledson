@@ -26,7 +26,7 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Flutter](https://img.shields.io/badge/-flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117)&nbsp;
 
-## Tecnologias para back-end:
+## Tecnologias para Back-end:
     
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
