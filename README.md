@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Davi+Gledson;I'm+19+years+old;I+from+Baraúna,+RN,+Brasil.;I'm+a+programming+and+technology+student;and+i'm+a+computer+technician+at+IFRN.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+![687474~1](https://user-images.githubusercontent.com/107668423/217114874-0b74519a-9ec5-4363-a083-3bef607f620a.GIF)
 
 <!--  -->
 
@@ -10,9 +11,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davigledson&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davigledson&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
 <!--  lembrar de colocar um gif aqui-->
-    
+
+  
+  
   ## Tecnologias para Front-end:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
