@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=60A2F7&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Davi+Gledson;I'm+19+years+old;I+from+Baraúna,+RN,+Brasil.;I'm+a+programming+and+technology+student;and+i'm+a+computer+technician+at+IFRN.;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=63BBE0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Davi+Gledson;I'm+19+years+old;I+from+Baraúna,+RN,+Brasil.;I'm+a+programming+and+technology+student;and+i'm+a+computer+technician+at+IFRN.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ![687474~1](https://user-images.githubusercontent.com/107668423/217114874-0b74519a-9ec5-4363-a083-3bef607f620a.GIF)
 
@@ -58,7 +58,7 @@
  ![snake gif](https://github.com/davigledson/davigledson/blob/output/github-contribution-grid-snake.svg)
     
 </div>
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=60A2F7&height=120&section=footer"/>
 <!--
 **davigledson/davigledson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
