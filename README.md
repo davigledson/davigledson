@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davigledson&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davigledson&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-<!--  lembrar de colocar um gif aqui-->
+
 
   
   
@@ -37,9 +37,9 @@
  ## Outras tecnologias:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
     
-#### 🚀Aprendendo sobre:
- ![Arduino](https://img.shields.io/badge/-Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
+<!-- #### 🚀Aprendendo sobre:
+ ![Arduino](https://img.shields.io/badge/-Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=1572B6&labelColor=0D1117)&nbsp; -->
 ## ⚒Ferramentas:
 ![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-visual%20studio%20code-0D1117?style=for-the-badge&logo=visualStudioCode&labelColor=0D1117)&nbsp;
