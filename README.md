@@ -58,7 +58,7 @@
     <a href = "mailto:davigledson1333@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
     <a href="https://web.telegram.org/k/#davigledson" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 
- ![snake gif](https://github.com/davigledson/davigledson/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/davigledson/davigledson/blob/output/github-contribution-grid-snake-dark.svg)
     
 </div>
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0063F0&height=120&section=footer"/>
