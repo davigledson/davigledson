@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0063F0&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0063F0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Davi+Gledson;I'm+19+years+old;I+from+Baraúna,+RN,+Brasil.;I'm+a+programming+and+technology+student;and+i'm+a+computer+technician+at+IFRN.;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0063F0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Davi+Gledson;I'm+20+years+old;I+from+Baraúna,+RN,+Brasil.;I'm+a+programming+and+technology+student;and+i'm+a+computer+technician+at+IFRN.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ![687474~1](https://user-images.githubusercontent.com/107668423/217114874-0b74519a-9ec5-4363-a083-3bef607f620a.GIF)
 
@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/davigledson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davigledson&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davigledson&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&rank_icon=github"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davigledson&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
