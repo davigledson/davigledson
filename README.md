@@ -57,11 +57,13 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-  ## Certificações:
+  ## Certificações e distintivos digitais:
   <div align="center">
 
 [<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="150"></a>](https://www.credly.com/badges/fbb5fd0d-059b-4657-9fe0-7cbe572ad1b7/linked_in?t=sh1t3q)
-    
+[<img src="https://github.com/user-attachments/assets/19060d40-5a8a-45c7-9d07-664273901205" height="150"></a>](https://cursos.alura.com.br/user/davigledson)
+   
+
   </div>
   
   
