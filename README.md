@@ -60,9 +60,11 @@
   ## Certificações e distintivos digitais:
   <div align="center">
 
+[<img src="https://github.com/user-attachments/assets/8e07fa30-0140-4974-9968-8e0b499172a4" height="150"></a>](https://www.credly.com/earner/earned/badge/5da18420-9b4b-4759-a558-7d2367843198)
 [<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="150"></a>](https://www.credly.com/badges/fbb5fd0d-059b-4657-9fe0-7cbe572ad1b7/linked_in?t=sh1t3q)
 [<img src="https://github.com/user-attachments/assets/19060d40-5a8a-45c7-9d07-664273901205" height="150"></a>](https://cursos.alura.com.br/user/davigledson)
-   
+  
+
 
   </div>
   
