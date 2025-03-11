@@ -13,7 +13,7 @@
   -->
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davigledson&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&rank_icon=github&line_height=34&hide=contribs)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=davigledson&hide=html&layout=compact&langs_count=10&theme=algolia)
+<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=davigledson&hide=html&layout=compact&langs_count=10&theme=algolia)--> 
 </div>
   
 
