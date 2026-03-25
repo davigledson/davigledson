@@ -25,18 +25,18 @@
 
 ### Back-end
 <div align="left">
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,django,fastapi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,ruby,rails,python,django,fastapi&theme=dark" />
 </div>
 
 ### Database & Cache
 <div align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase&theme=dark" />
 <img height="48" src="https://cdn.simpleicons.org/mariadb/003545" title="MariaDB" />
 </div>
 
 ### DevOps & Cloud
 <div align="left">
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,git,githubactions,jenkins,aws,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,aws,vercel&theme=dark" />
 </div>
 
 ### Tools & IDEs
